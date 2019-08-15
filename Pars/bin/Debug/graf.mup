@@ -1,0 +1,3779 @@
+{"formatVersion": 3, "id": "root", "ideas": {
+"1": {"title": "Отсутствие пользователя", "id": 1, "attr": { "style": {"width": 88}}}
+,
+"2": {"title": "Учетный год номенклатуры", "id": 2, "attr": { "style": {"width": 88}}}
+,
+"3": {"title": "Лист ознакомления", "id": 3, "attr": { "style": {"width": 88}}}
+,
+"4": {"title": "Элемент листа ознакомления", "id": 4, "attr": { "style": {"width": 88}}}
+,
+"5": {"title": "Результат ознакомления", "id": 5, "attr": { "style": {"width": 88}}}
+,
+"6": {"title": "Группа задач на ознакомление", "id": 6, "attr": { "style": {"width": 88}}}
+,
+"7": {"title": "Папка-действие", "id": 7, "attr": { "style": {"width": 88}}}
+,
+"8": {"title": "Статус мероприятий", "id": 8, "attr": { "style": {"width": 88}}}
+,
+"9": {"title": "Дополнительное соглашение", "id": 9, "attr": { "style": {"width": 88}}}
+,
+"10": {"title": "AddrBase", "id": 10, "attr": { "style": {"width": 88}}}
+,
+"11": {"title": "Адрес", "id": 11, "attr": { "style": {"width": 88}}}
+,
+"12": {"title": "Графическая панель", "id": 12, "attr": { "style": {"width": 88}}}
+,
+"13": {"title": "Ответ", "id": 13, "attr": { "style": {"width": 88}}}
+,
+"14": {"title": "Токен устройства для APNS", "id": 14, "attr": { "style": {"width": 88}}}
+,
+"15": {"title": "Задача согласования", "id": 15, "attr": { "style": {"width": 88}}}
+,
+"16": {"title": "Задача согласования матрицы эффективности", "id": 16, "attr": { "style": {"width": 88}}}
+,
+"17": {"title": "Лист согласования", "id": 17, "attr": { "style": {"width": 88}}}
+,
+"18": {"title": "Элемент листа согласования", "id": 18, "attr": { "style": {"width": 88}}}
+,
+"19": {"title": "Результат согласования", "id": 19, "attr": { "style": {"width": 88}}}
+,
+"20": {"title": "Группа задач на согласование", "id": 20, "attr": { "style": {"width": 88}}}
+,
+"21": {"title": "Задача подписания документа", "id": 21, "attr": { "style": {"width": 88}}}
+,
+"22": {"title": "AssignedRoleStereotype", "id": 22, "attr": { "style": {"width": 88}}}
+,
+"23": {"title": "Вложение", "id": 23, "attr": { "style": {"width": 88}}}
+,
+"24": {"title": "Банковский счет", "id": 24, "attr": { "style": {"width": 88}}}
+,
+"25": {"title": "Реквизиты банка", "id": 25, "attr": { "style": {"width": 88}}}
+,
+"26": {"title": "Реквизиты банка в России", "id": 26, "attr": { "style": {"width": 88}}}
+,
+"27": {"title": "Реквизиты банка в системе SWIFT", "id": 27, "attr": { "style": {"width": 88}}}
+,
+"28": {"title": "Базовый класс сообщения", "id": 28, "attr": { "style": {"width": 88}}}
+,
+"29": {"title": "Базовый интервал", "id": 29, "attr": { "style": {"width": 88}}}
+,
+"30": {"title": "Хранилище бинарных данных", "id": 30, "attr": { "style": {"width": 88}}}
+,
+"31": {"title": "BPM App", "id": 31, "attr": { "style": {"width": 88}}}
+,
+"32": {"title": "Процесс BPMN", "id": 32, "attr": { "style": {"width": 88}}}
+,
+"33": {"title": "Бюджет проекта", "id": 33, "attr": { "style": {"width": 88}}}
+,
+"34": {"title": "Расход по проекту", "id": 34, "attr": { "style": {"width": 88}}}
+,
+"35": {"title": "Расход бюджета (планируемый)", "id": 35, "attr": { "style": {"width": 88}}}
+,
+"36": {"title": "Статья расхода бюджета", "id": 36, "attr": { "style": {"width": 88}}}
+,
+"37": {"title": "Доход по проекту", "id": 37, "attr": { "style": {"width": 88}}}
+,
+"38": {"title": "Доход бюджета (планируемый)", "id": 38, "attr": { "style": {"width": 88}}}
+,
+"39": {"title": "Статья дохода бюджета", "id": 39, "attr": { "style": {"width": 88}}}
+,
+"40": {"title": "Сумма элемента расхода бюджета", "id": 40, "attr": { "style": {"width": 88}}}
+,
+"41": {"title": "Элемент расхода бюджета", "id": 41, "attr": { "style": {"width": 88}}}
+,
+"42": {"title": "Сумма элемента дохода бюджета", "id": 42, "attr": { "style": {"width": 88}}}
+,
+"43": {"title": "Элемент дохода бюджета", "id": 43, "attr": { "style": {"width": 88}}}
+,
+"44": {"title": "Событие", "id": 44, "attr": { "style": {"width": 88}}}
+,
+"45": {"title": "Шаблон периодического события", "id": 45, "attr": { "style": {"width": 88}}}
+,
+"46": {"title": "CalendarEventPermission", "id": 46, "attr": { "style": {"width": 88}}}
+,
+"47": {"title": "Участник", "id": 47, "attr": { "style": {"width": 88}}}
+,
+"48": {"title": "CallHistory", "id": 48, "attr": { "style": {"width": 88}}}
+,
+"49": {"title": "Настройка доступа к полям справочника", "id": 49, "attr": { "style": {"width": 88}}}
+,
+"50": {"title": "Задача редактирования справочника", "id": 50, "attr": { "style": {"width": 88}}}
+,
+"51": {"title": "CatalogProfile", "id": 51, "attr": { "style": {"width": 88}}}
+}, 
+"attr": {"theme": "default"},"title": "Отсутствие пользователя","links": [
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 2,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 3,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 4,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 5,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 6,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 7,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 8,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 9,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid StartDate EndDate Description Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid StartDate EndDate Description Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid StartDate EndDate Description Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid StartDate EndDate Description "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid StartDate EndDate Description "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User Status "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 1 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid StartDate EndDate Description Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 3,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 4,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 5,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 6,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 7,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 8,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 9,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted Status HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted Status HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted Status HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 2 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 4,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 5,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 6,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 7,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 8,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 9,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Items Groups "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 3 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 5,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 6,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid SolutionDate "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 7,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 8,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 9,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid UserReplaced Uid ParentList User Comment Results SolutionDate Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid SolutionDate "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Comment Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Comment "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 4 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 6,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 7,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 8,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 9,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Document Version Status Item "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 5 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 7,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 8,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 9,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject Category WorkflowBookmark Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject Category WorkflowBookmark Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid SolutionDate "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items CreationAuthor CreationDate ExecutionDate Note Comments Subject ListNumber RestrictEditExecutors LimitByTime Category Notes NotCompletedTaskCount CountExecuted SolutionDate WorkflowBookmark ElementUid OperationWorkflowBookmarks Status Tasks "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items CreationAuthor CreationDate Comments Subject Category WorkflowBookmark Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Subject "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 6 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject Category WorkflowBookmark Status "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 8,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 9,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate ChangeDate Folder Permissions SortTypeId ChangeAuthor InheritPermissions Virtual IsArchived ArchiveDate ArchiveAuthor IsDeleted HardDelete OldFolder DeleteAuthor Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Permissions Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate ChangeDate ChangeAuthor Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate ChangeDate Folder Permissions SortTypeId ChangeAuthor InheritPermissions Virtual IsArchived ArchiveDate ArchiveAuthor IsDeleted HardDelete OldFolder DeleteAuthor Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate ChangeDate Folder Permissions SortTypeId ChangeAuthor InheritPermissions Virtual IsArchived ArchiveDate ArchiveAuthor IsDeleted HardDelete OldFolder DeleteAuthor Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate ChangeDate Permissions Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate ChangeDate Permissions Description "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 7 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Description "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 9,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 8 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 10,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Permissions Description "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Attachments "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Status Comments Attachments DocumentAttachments Description Resolution Contractor Subject "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Status Comments Attachments DocumentAttachments Description Resolution Contractor Subject "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Status Comments Subject "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Status Comments Attachments DocumentAttachments Description Resolution Contractor Subject "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Subject "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate Description "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate ChangeDate ChangeAuthor Status Comments Description Number "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate ChangeDate Folder Permissions SortTypeId ChangeAuthor InheritPermissions Virtual IsArchived ArchiveDate ArchiveAuthor IsDeleted HardDelete OldFolder DeleteAuthor Status Versions Comments Template Attachments DocumentAttachments CurrentVersion Description Encrypt EncryptUser EncryptDate Salt CryptoToken BarcodeFile RegistrationCard Resolution RegistrationCardNumber "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate ChangeDate Folder Permissions SortTypeId ChangeAuthor InheritPermissions Virtual IsArchived ArchiveDate ArchiveAuthor IsDeleted HardDelete OldFolder DeleteAuthor Status Versions Comments Template Attachments DocumentAttachments CurrentVersion Description Encrypt EncryptUser EncryptDate Salt CryptoToken BarcodeFile RegistrationCard Resolution RegistrationCardNumber "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Number "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Number "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate ChangeDate Permissions Comments Attachments DocumentAttachments Description Subject "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate ChangeDate Permissions Comments Attachments DocumentAttachments Description Subject "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Number "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 9 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Status Comments Attachments DocumentAttachments Description Resolution Contractor Subject "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 11,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 10 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 12,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 11 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 13,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Permissions "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Permissions "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Order "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Permissions "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description Permissions "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description Permissions "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Permissions "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Permissions "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 12 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Permissions "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 14,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 13 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 15,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 14 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 16,"attr": {"style": {"arrow": "both", "label": "Id TypeUid ExecutorReplaced Uid Subject Description CreationDate CreationAuthor Executor StartDate EndDate Priority Comments Attachments Tags ParentTask ChildTasks Status StartWorkDate EndWorkDate InformTo Harmonizator TimeSet Permissions NotShowInLists InformToHash Category ExpiredNotificationSent PlanWorkLog FactWorkLog IsEmulation ExecutorIsEmulation Contractor Contact Lead Sale DocumentAttachments Resolution Project WorkflowBookmark AssignedToResponsible ApprovalStatus ApprovalComment "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject CreationDate CreationAuthor Comments Status Category WorkflowBookmark "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid ExecutorReplaced Uid Subject Description CreationDate CreationAuthor Executor StartDate EndDate Priority Comments Attachments Tags ParentTask ChildTasks Status StartWorkDate EndWorkDate InformTo Harmonizator TimeSet Permissions NotShowInLists InformToHash Category ExpiredNotificationSent PlanWorkLog FactWorkLog IsEmulation ExecutorIsEmulation Contractor Contact Lead Sale DocumentAttachments Resolution Project WorkflowBookmark AssignedToResponsible "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Status Harmonizator Project "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Attachments Status Permissions DocumentAttachments Resolution Project "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Attachments Status Permissions DocumentAttachments Resolution Project "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject Description CreationDate CreationAuthor StartDate EndDate Comments Attachments Permissions DocumentAttachments "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject Description CreationDate CreationAuthor StartDate EndDate Comments Attachments Permissions DocumentAttachments "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 15 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid ExecutorReplaced Uid Subject Description CreationDate CreationAuthor Executor StartDate EndDate Priority Comments Attachments Tags ParentTask ChildTasks Status StartWorkDate EndWorkDate InformTo Harmonizator TimeSet Permissions NotShowInLists InformToHash Category ExpiredNotificationSent PlanWorkLog FactWorkLog IsEmulation ExecutorIsEmulation Contractor Contact Lead Sale DocumentAttachments Resolution Project WorkflowBookmark AssignedToResponsible "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 17,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject CreationDate CreationAuthor Comments Status Category WorkflowBookmark "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid ExecutorReplaced Uid Subject Description CreationDate CreationAuthor Executor StartDate EndDate Priority Comments Attachments Tags ParentTask ChildTasks Status StartWorkDate EndWorkDate InformTo Harmonizator TimeSet Permissions NotShowInLists InformToHash Category ExpiredNotificationSent PlanWorkLog FactWorkLog IsEmulation ExecutorIsEmulation Contractor Contact Lead Sale DocumentAttachments Resolution Project WorkflowBookmark AssignedToResponsible "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Status Harmonizator Project "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Attachments Status Permissions DocumentAttachments Resolution Project "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Attachments Status Permissions DocumentAttachments Resolution Project "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject Description CreationDate CreationAuthor StartDate EndDate Comments Attachments Permissions DocumentAttachments "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject Description CreationDate CreationAuthor StartDate EndDate Comments Attachments Permissions DocumentAttachments "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 16 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid ExecutorReplaced Uid Subject Description CreationDate CreationAuthor Executor StartDate EndDate Priority Comments Attachments Tags ParentTask ChildTasks Status StartWorkDate EndWorkDate InformTo Harmonizator TimeSet Permissions NotShowInLists InformToHash Category ExpiredNotificationSent PlanWorkLog FactWorkLog IsEmulation ExecutorIsEmulation Contractor Contact Lead Sale DocumentAttachments Resolution Project WorkflowBookmark AssignedToResponsible "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 18,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 17 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 19,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid SolutionDate "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Comment Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Comment "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 18 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Attachments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 20,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 19 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 21,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Items CreationAuthor CreationDate Comments Subject Category WorkflowBookmark Status "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Subject "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Status "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Status "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Status "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 20 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Comments Subject Category WorkflowBookmark Status "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 22,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Comment "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Status Harmonizator Project "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Attachments Status Permissions DocumentAttachments Resolution Project "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor Comments Attachments Status Permissions DocumentAttachments Resolution Project "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject Description CreationDate CreationAuthor StartDate EndDate Comments Attachments Permissions DocumentAttachments "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject Description CreationDate CreationAuthor StartDate EndDate Comments Attachments Permissions DocumentAttachments "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 21 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid ExecutorReplaced Uid Subject Description CreationDate CreationAuthor Executor StartDate EndDate Priority Comments Attachments Tags ParentTask ChildTasks Status StartWorkDate EndWorkDate InformTo Harmonizator TimeSet Permissions NotShowInLists InformToHash Category ExpiredNotificationSent PlanWorkLog FactWorkLog IsEmulation ExecutorIsEmulation Contractor Contact Lead Sale DocumentAttachments Resolution Project WorkflowBookmark AssignedToResponsible "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 23,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 22 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 24,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 23 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 25,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 24 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 26,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Bank EndDate IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Bank EndDate IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 25 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 27,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Bank EndDate IsDeleted HardDelete IntermediaryBank "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 26 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 28,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 27 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid EndDate "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 29,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 28 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject CreationDate CreationAuthor "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 30,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 29 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 31,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 30 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 32,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 31 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 33,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationDate CreationAuthor Description "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationDate CreationAuthor Description "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Parent Description "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationDate CreationAuthor Description "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Parent Description "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor Description "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor Description "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 32 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationDate CreationAuthor Description "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 34,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description Project CreationDate CreationAuthor ChangeDate ChangeAuthor Status Comments "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description Project CreationDate CreationAuthor ChangeDate ChangeAuthor Status Comments "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Number "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Number "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor ChangeDate Comments "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description CreationDate CreationAuthor ChangeDate Comments "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Number "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 33 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description Project CreationDate CreationAuthor Harmonizator Status Comments "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 35,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete Theme Project "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name CreationAuthor CreationDate ChangeDate Folder Permissions SortTypeId ChangeAuthor InheritPermissions Virtual IsArchived ArchiveDate ArchiveAuthor IsDeleted HardDelete OldFolder DeleteAuthor Status Versions Comments Template Attachments DocumentAttachments CurrentVersion Description Encrypt EncryptUser EncryptDate Salt CryptoToken BarcodeFile RegistrationCard Resolution RegistrationCardNumber Theme Project Amount Date "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete Theme Project "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Amount Date "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme BudgetExpenseItem "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Amount Date "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate ChangeDate Permissions Comments Attachments DocumentAttachments Description "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate ChangeDate Permissions Comments Attachments DocumentAttachments Description "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 34 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Status Comments Attachments DocumentAttachments Description Resolution Project "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 36,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme Project IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme ProjectPhase BudgetItem Project IsDeleted HardDelete "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme ProjectPhase BudgetItem "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme ProjectPhase BudgetItem "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 35 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 37,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsGroup Parent Name Description "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 36 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 38,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid IsDeleted HardDelete Theme Project "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Name Description "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Amount Date "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Amount Date "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme BudgetIncomeItem "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate ChangeDate Permissions Comments Attachments DocumentAttachments Description "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate ChangeDate Permissions Comments Attachments DocumentAttachments Description "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 37 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid CreationAuthor CreationDate Permissions Status Comments Attachments DocumentAttachments Description Resolution Project "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 39,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme ProjectPhase BudgetItem "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Theme ProjectPhase BudgetItem "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 38 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Project "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 40,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 39 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Description "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 41,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Date Amount Substantiation Task "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 40 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 42,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Budget Theme Number ProjectPhase BudgetItem Amounts "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Number "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 41 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 42 ,
+"ideaIdTo": 43,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 42 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 42 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 42 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 42 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 42 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 42 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 42 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 43 ,
+"ideaIdTo": 44,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 43 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 43 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 43 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 43 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Number "}}}
+,
+{"ideaIdFrom": 43 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 43 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 44 ,
+"ideaIdTo": 45,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Place Subject StartDate EndDate CreationDate ChangeDate Completed Description Confirm CreationAuthor EventUsers Attachments Permissions Schedules Comments ConfirmParticipation NotifyMeConfirmParticipation TemplateEvent IsPrivate EventUsersHash DocumentAttachments "}}}
+,
+{"ideaIdFrom": 44 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 44 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 44 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 44 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 44 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject StartDate EndDate CreationDate Description CreationAuthor Attachments Permissions Comments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 45 ,
+"ideaIdTo": 46,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 45 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 45 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 45 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 45 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Subject StartDate EndDate CreationDate Description CreationAuthor Attachments Permissions Comments DocumentAttachments "}}}
+,
+{"ideaIdFrom": 46 ,
+"ideaIdTo": 47,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 46 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 46 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 46 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 47 ,
+"ideaIdTo": 48,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 47 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid User "}}}
+,
+{"ideaIdFrom": 47 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid Status "}}}
+,
+{"ideaIdFrom": 48 ,
+"ideaIdTo": 49,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 48 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+,
+{"ideaIdFrom": 49 ,
+"ideaIdTo": 50,"attr": {"style": {"arrow": "both", "label": "Id TypeUid Uid "}}}
+]}

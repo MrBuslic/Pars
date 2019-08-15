@@ -1,0 +1,31 @@
+{"formatVersion": 3, "id": "root", "ideas": {
+"1": {"title": "Отсутствие пользователя", "id": 1, "attr": { "style": {"width": 88}}},
+"2": {"title": "Учетный год номенклатуры", "id": 2, "attr": { "style": {"width": 88}}},
+"3": {"title": "Лист ознакомления", "id": 3, "attr": { "style": {"width": 88}}}},
+	"attr": {
+    "theme": "default"
+  },
+"title": "Отсутствие пользователя",
+"links": [
+    {
+      "ideaIdFrom": 1,
+      "ideaIdTo": 2,
+      "attr": {
+        "style": {
+          "arrow": "to",
+          "label": "id uid"
+        }
+      }
+    },
+	{
+      "ideaIdFrom": 1,
+      "ideaIdTo": 3,
+      "attr": {
+        "style": {
+          "arrow": "to",
+          "label": "id uid"
+        }
+      }
+    }
+	]
+}
